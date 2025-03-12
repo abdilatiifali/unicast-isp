@@ -426,7 +426,7 @@ export default function Home() {
                       <span className="text-sm">4K streaming on multiple devices</span>
                     </li>
                   </ul>
-                </CardContent>
+                  </CardContent>
               </Card>
             </ScrollReveal>
 
@@ -608,7 +608,7 @@ export default function Home() {
                   <PlanCard
                     title="Basic"
                     price={2500}
-                    speed="10 Mbps"
+                    speed="12 Mbps"
                     popular={false}
                     features={[
                       "12 Mbps download speed",

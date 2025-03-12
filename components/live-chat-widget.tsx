@@ -13,7 +13,7 @@ import UnicastLogo from "@/components/unicast-logo"
 const PREDEFINED_RESPONSES = [
   "Hi there! How can I help you today?",
   "I'd be happy to help you with that. Could you provide more details?",
-  "Our plans start at $2,500 per month for 10 Mbps. Would you like me to tell you more about our packages?",
+  "Our plans start at 2,500kes per month for 10 Mbps. Would you like me to tell you more about our packages?",
   "We offer service in over 50 cities nationwide. You can check availability by entering your address on our website.",
   "Installation typically takes 1-2 hours, and most customers can get an appointment within 3-5 business days.",
   "We don't have any contracts - all our plans are month-to-month with no early termination fees.",
