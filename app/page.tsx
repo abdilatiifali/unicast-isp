@@ -21,6 +21,7 @@ import InternetSpeedCalculator from "@/components/internet-speed-calculator"
 import LiveChatWidget from "@/components/live-chat-widget"
 import SpecialOffersBanner from "@/components/special-offers-banner"
 import ContactInfoSection from "@/components/contact-info-section"
+import WhatsAppChatButton from "@/components/whatsapp-chat-button"
 
 // Create a reusable scroll function to avoid repetition
 // Add this function right after the imports at the top of the file
@@ -1191,8 +1192,12 @@ export default function Home() {
         </div>
       </footer>
 
-      {/* Live Chat Widget */}
-      <LiveChatWidget />
+      <WhatsAppChatButton
+        phoneNumber="+254722993166" // Replace with your actual business phone number
+        message="Hello! I'm interested in Unicast internet services. Can you provide more information?"
+        tooltipText="Chat with our support team"
+      />
+
       {/* Special Offers Banner */}
     </div>
   )
