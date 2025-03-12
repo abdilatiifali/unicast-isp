@@ -377,7 +377,7 @@ export default function Home() {
               </div>
               <div className="text-center">
                 <h3 className="text-3xl md:text-4xl font-bold text-indigo-600 mb-2">
-                  <CountUp end={50} suffix="+" />
+                  <CountUp end={20} suffix="+" />
                 </h3>
                 <p className="text-gray-600">Cities Covered</p>
               </div>

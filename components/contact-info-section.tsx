@@ -84,7 +84,7 @@ export default function ContactInfoSection() {
                         <h4 className="font-medium">Email</h4>
                         <p className="text-gray-600">
                           <a href="mailto:info@unicast.com" className="hover:text-orange-600 transition-colors">
-                            info@unicast.com
+                            customer.support@unicasttech.com
                           </a>
                         </p>
                       </div>
